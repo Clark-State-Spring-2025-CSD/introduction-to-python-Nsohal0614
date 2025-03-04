@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.16">
+  <diagram name="Page-1" id="8Mm_iXsa-Amp2MgVel0e">
+    <mxGraphModel dx="753" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rN_336H2mKI2FQleMMrD-4" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="236.25" y="890" width="192.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rN_336H2mKI2FQleMMrD-8" target="rN_336H2mKI2FQleMMrD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-8" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="50" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rN_336H2mKI2FQleMMrD-9" target="rN_336H2mKI2FQleMMrD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-9" value="theHello = &quot;Hello&quot;&lt;div&gt;theWorld = &quot;world&quot;&lt;/div&gt;&lt;div&gt;cakes = 10&amp;nbsp;&lt;/div&gt;&lt;div&gt;theft = 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="245" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rN_336H2mKI2FQleMMrD-11" target="rN_336H2mKI2FQleMMrD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-11" value="remaining = cakes - theft" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="245" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rN_336H2mKI2FQleMMrD-13" target="rN_336H2mKI2FQleMMrD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_336H2mKI2FQleMMrD-13" value="&lt;span style=&quot;font-size: medium;&quot;&gt;print(f&quot;{theHello}, {theWorld}.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;There were {cakes} cakes, but Lex Luthor stole {theft}.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;Now there&#39;s {remaining}. And that&#39;s sad.&quot;)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="660" width="300" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
